@@ -16,7 +16,7 @@ author: 김철수
 navbar-links:
   About Me: "aboutme"
   AI Portfolio:
-    - Airbnb Amenity Detection: "_posts/2021-07-05-airbnb-clone-project-amenity-detection/"
+    - Airbnb Amenity Detection: "2021-07-05-airbnb-clone-project-amenity-detection"
 
 # --- Logo --- #
 
